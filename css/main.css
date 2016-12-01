@@ -1,0 +1,38 @@
+ul{
+    list-style-type:none; 
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: black;
+    
+}
+
+li{
+    display: block;
+    float: left;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+a {
+    color:blueviolet;
+    text-decoration:none;
+}
+a:hover {
+    color: coral;
+}
+a:visited{
+    color: blueviolet;
+}
+
+.botones{
+    background-color:aliceblue;
+}
+.botones:hover {
+    background-color:deeppink;
+}
+.botones a{
+    color: deepskyblue;
+    text-decoration: none;
+}
